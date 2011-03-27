@@ -1,0 +1,4 @@
+Project Tool:  
+
+Tool written to act as a central project starter and infotracker. 
+Allows project manager to choose who is on the project, which then automatically creates a Wiki page, bugtracker (Mantis) project, and a subversion sub-repo for the project. 
